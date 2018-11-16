@@ -12,4 +12,4 @@ class App extends React.Component {
       return ( <div> {this.state.text} </div>)
       }
     }
-    export default Ap
+    export default App
